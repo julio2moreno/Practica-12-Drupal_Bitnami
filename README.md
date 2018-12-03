@@ -40,7 +40,7 @@ En el panel de la instancias nos vamos a ``connect`` y copiamos el public DNS. E
  ## Instalación y configuración de Drupal
  Ahora vamos a instalar y configurar drupal con una maquina ubuntu ``bitnami-drupal-8.6.3-0-linux-debian-9-x86_64-hvm-ebs``, con el Drupal preinstalado con bitnami este  instalador incluye todo el software necesario para ejecutarse.
  
-Añadimos la ip de IPv4 Public IP a nuestra url del explorador se nos abrira la pagina por defecto de drupal, en la parte de derecha aparece ``log in`` donde meteremos el usuario y la contraseña que: 
+Añadimos la ip de IPv4 Public IP a nuestra url del explorador se nos abrira la pagina por defecto de drupal, en la parte de derecha aparece ``log in`` donde meteremos el usuario y la contraseña para que podamos configurar Drupal que: 
 Para conocer la contraseña y el usuario se pueden hacer de dos maneras:
 
 1.- Mediante el panel de las intancias:
