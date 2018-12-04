@@ -37,7 +37,7 @@ En el panel de la instancias nos vamos a ``connect`` y copiamos el public DNS. E
 
  ``ssh -i "archivoejemplo.pem" bitnami@ec2-52-90-146-135.compute-1.amazonaws.com``
 
- ## Instalación y configuración de Drupal ![alt text](https://github.com/julio2moreno/Practica-12-Drupal_Bitnami/blob/master/GitLab_Logo.svg.png)
+ ## Instalación y configuración de Drupal
 
  Ahora vamos a instalar y configurar drupal con una maquina ubuntu ``bitnami-drupal-8.6.3-0-linux-debian-9-x86_64-hvm-ebs``, con el Drupal preinstalado con bitnami este  instalador incluye todo el software necesario para ejecutarse.
  
