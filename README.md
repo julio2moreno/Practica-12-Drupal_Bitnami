@@ -65,3 +65,5 @@ En la consola de EC2. Haga clic en el botón Actions de la maquina que se quiere
 - ``reboot`` reinicio de la maquina.
 
 - ``terminate`` eliminacion de la  maquina, este proceso dura varios minutos hasta que se finalize por completa la estancia.
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
