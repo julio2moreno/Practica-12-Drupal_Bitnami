@@ -38,7 +38,6 @@ En el panel de la instancias nos vamos a ``connect`` y copiamos el public DNS. E
  ``ssh -i "archivoejemplo.pem" bitnami@ec2-52-90-146-135.compute-1.amazonaws.com``
 
  ## Instalación y configuración de Drupal
-
  Ahora vamos a instalar y configurar drupal con una maquina ubuntu ``bitnami-drupal-8.6.3-0-linux-debian-9-x86_64-hvm-ebs``, con el Drupal preinstalado con bitnami este  instalador incluye todo el software necesario para ejecutarse.
  
 Añadimos la ip de IPv4 Public IP a nuestra url del explorador se nos abrira la pagina por defecto de drupal, en la parte de derecha aparece ``log in`` donde meteremos el usuario y la contraseña para que podamos configurar Drupal que: 
@@ -66,5 +65,3 @@ En la consola de EC2. Haga clic en el botón Actions de la maquina que se quiere
 - ``reboot`` reinicio de la maquina.
 
 - ``terminate`` eliminacion de la  maquina, este proceso dura varios minutos hasta que se finalize por completa la estancia.
-
-
