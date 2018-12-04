@@ -71,4 +71,4 @@ En la consola de EC2. Haga clic en el botón Actions de la maquina que se quiere
 
 Practica-12-Drupal_Bitnami/escudo.png
 
-https://github.com/julio2moreno/Practica-12-Drupal_Bitnami/blob/master/escudo.png
+![alt text](https://github.com/julio2moreno/Practica-12-Drupal_Bitnami/blob/master/escudo.png)
