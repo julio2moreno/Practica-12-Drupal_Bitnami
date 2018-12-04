@@ -65,3 +65,8 @@ En la consola de EC2. Haga clic en el botón Actions de la maquina que se quiere
 - ``reboot`` reinicio de la maquina.
 
 - ``terminate`` eliminacion de la  maquina, este proceso dura varios minutos hasta que se finalize por completa la estancia.
+
+
+![alt text](http:///github.com/julio2moreno/Practica-12-Drupal_Bitnami/escudo.png)
+
+Practica-12-Drupal_Bitnami/escudo.png
